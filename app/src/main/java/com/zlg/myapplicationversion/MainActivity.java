@@ -11,8 +11,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int s = 1234;
-        String test1111 = "";
-        String test12366666 = "";
+        String test1111 = "33333";
+        String test12366666 = "122222223";
         String test911="123456";
     }
 }
